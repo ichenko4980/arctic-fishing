@@ -1,0 +1,54 @@
+{
+  "assets": [
+    {
+      "name": "bg_game",
+      "type": "bg",
+      "prompt": "Arctic ice field at pale blue dawn for ArcticFishing: frozen lake plane, distant snow ridges, soft aurora haze, no text, no characters, opaque full-screen background"
+    },
+    {
+      "name": "logo",
+      "type": "icon",
+      "prompt": "Round emblem for ArcticFishing: stylised ice hole with a short fishing rod and an arctic char silhouette, ice-mint and deep blue, no text, transparent background"
+    },
+    {
+      "name": "icon_home",
+      "type": "sprite",
+      "prompt": "Flat ice-hut navigation glyph for ArcticFishing, deep blue with a mint roof, transparent background"
+    },
+    {
+      "name": "icon_pause",
+      "type": "sprite",
+      "prompt": "Flat pause glyph in a frosted circle for ArcticFishing, deep blue on ice-mint, transparent background"
+    },
+    {
+      "name": "sprite_1",
+      "type": "sprite",
+      "prompt": "Arctic char fish for ArcticFishing, side view, illustrated, mint and silver tones, transparent background"
+    },
+    {
+      "name": "sprite_2",
+      "type": "sprite",
+      "prompt": "Northern pike for ArcticFishing, side view, illustrated, deep green and blue tones, transparent background"
+    },
+    {
+      "name": "sprite_3",
+      "type": "sprite",
+      "prompt": "Small ice perch for ArcticFishing, side view, illustrated, olive and gold tones, transparent background"
+    },
+    {
+      "name": "sprite_4",
+      "type": "sprite",
+      "prompt": "Ice auger with a tackle box and a short fishing rod for ArcticFishing, illustrated, deep blue and warm gold, transparent background"
+    },
+    {
+      "name": "sprite_5",
+      "type": "sprite",
+      "prompt": "Golden angler badge with a fish emblem and an ice-mint ribbon for ArcticFishing, illustrated, transparent background"
+    },
+    {
+      "name": "icon_1024",
+      "type": "icon",
+      "prompt": "Launcher icon for ArcticFishing: vertical gradient ice-mint to deep-water blue, centred dark-blue ice hole with a fishing line and a small mint char silhouette, flat illustration, generous padding, no text"
+    }
+  ]
+}

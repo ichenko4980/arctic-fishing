@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Arctic Fishing</string>
+
+    <string name="brand_title">ARCTIC LOG</string>
+    <string name="brand_subtitle">ICE FISHING JOURNAL</string>
+    <string name="loading">LOADING</string>
+
+    <string name="cta_start_session">START SESSION</string>
+    <string name="cta_drop_line">DROP LINE</string>
+    <string name="cta_end_session">END SESSION</string>
+    <string name="cta_log_again">LOG AGAIN</string>
+    <string name="cta_menu">MENU</string>
+    <string name="cta_resume">RESUME</string>
+    <string name="cta_claim_reward">CLAIM REWARD</string>
+    <string name="cta_claimed_today">CLAIMED TODAY</string>
+    <string name="cta_reset">RESET</string>
+    <string name="cta_cancel">CANCEL</string>
+
+    <string name="menu_tile_today">TODAY</string>
+    <string name="menu_tile_hint">PREP YOUR HOLE AND LOG THE CATCH</string>
+    <string name="menu_tile_daily">DAILY CHALLENGE</string>
+    <string name="menu_tile_progress">PROGRESS</string>
+    <string name="menu_tile_collection">COLLECTION</string>
+    <string name="menu_tile_rewards">REWARDS</string>
+    <string name="menu_tile_settings">SETTINGS</string>
+    <string name="menu_footer">VIRTUAL PROGRESS ONLY</string>
+    <string name="menu_no_sessions">NO SESSIONS YET</string>
+    <string name="menu_nothing_caught">NOTHING CAUGHT YET</string>
+    <string name="menu_sessions_value">%1$d SESSIONS</string>
+    <string name="menu_species_value">%1$d / %2$d SPECIES</string>
+    <string name="menu_rewards_ready">%1$d READY</string>
+    <string name="menu_rewards_next">NEXT %1$s</string>
+    <string name="menu_rewards_all">ALL CLAIMED</string>
+    <string name="menu_level_badge">LVL %1$d · %2$d XP</string>
+    <string name="menu_daily_fresh">NEW TODAY</string>
+
+    <string name="session_label">SESSION</string>
+    <string name="session_hint">MORE GEAR CHECKED, BETTER BITE CHANCE</string>
+    <string name="session_spot_label">SPOT</string>
+    <string name="session_weather_label">WEATHER</string>
+    <string name="session_gear_label">GEAR CHECKLIST</string>
+    <string name="session_gear_count">GEAR %1$d/%2$d</string>
+    <string name="session_bite_chance">BITE CHANCE %1$d%%</string>
+    <string name="session_event_ready">LINE READY</string>
+    <string name="session_event_casting">LINE DOWN</string>
+    <string name="session_event_bite">BITE</string>
+    <string name="session_event_miss">NO BITE</string>
+    <string name="session_catch_strip">LOGGED CATCHES</string>
+
+    <string name="stat_casts">CASTS</string>
+    <string name="stat_catches">CATCHES</string>
+    <string name="stat_weight">WEIGHT</string>
+    <string name="stat_total_weight">TOTAL WEIGHT</string>
+    <string name="stat_best_fish">BEST FISH</string>
+    <string name="stat_xp_earned">XP EARNED</string>
+    <string name="stat_sessions">SESSIONS</string>
+    <string name="stat_heaviest">HEAVIEST</string>
+    <string name="stat_streak">DAY STREAK</string>
+    <string name="stat_gear_score">GEAR SCORE</string>
+    <string name="stat_best_spot">BEST SPOT</string>
+    <string name="value_fraction">%1$d/%2$d</string>
+    <string name="value_plain">%1$d</string>
+    <string name="value_xp_gain">+%1$d XP</string>
+    <string name="value_xp">%1$d XP</string>
+
+    <string name="result_label">SESSION REPORT</string>
+    <string name="result_good">GOOD HAUL</string>
+    <string name="result_quiet">QUIET ICE</string>
+    <string name="result_badge_unlocked">BADGE UNLOCKED</string>
+    <string name="result_no_catch">NOTHING ON THE HOOK THIS TIME</string>
+
+    <string name="daily_title">DAILY CHALLENGE</string>
+    <string name="daily_log_three">LOG 3 CATCHES IN ONE SESSION</string>
+    <string name="daily_all_gear">CHECK ALL 5 GEAR ITEMS</string>
+    <string name="daily_trophy">LOG A BURBOT</string>
+    <string name="daily_blizzard">FINISH A SESSION IN A BLIZZARD</string>
+    <string name="daily_reward">REWARD</string>
+    <string name="daily_not_started">NOT STARTED YET</string>
+    <string name="daily_progress">PROGRESS</string>
+    <string name="progress_fraction">%1$d / %2$d</string>
+
+    <string name="progress_title">PROGRESS</string>
+    <string name="progress_level">ANGLER LEVEL %1$d</string>
+    <string name="progress_level_xp">%1$d / %2$d XP</string>
+    <string name="progress_empty">LOG YOUR FIRST SESSION TO SEE STATS</string>
+    <string name="progress_recent">RECENT SESSIONS</string>
+    <string name="progress_row">%1$s · %2$s</string>
+
+    <string name="rewards_title">REWARDS</string>
+    <string name="rewards_requirement">REACH %1$d XP</string>
+    <string name="rewards_state_claim">CLAIM</string>
+    <string name="rewards_state_claimed">CLAIMED</string>
+    <string name="rewards_state_locked">LOCKED</string>
+
+    <string name="collection_title">COLLECTION</string>
+    <string name="collection_counter">%1$d / %2$d SPECIES</string>
+    <string name="collection_best">BEST %1$s</string>
+    <string name="collection_count">CAUGHT x%1$d</string>
+    <string name="collection_locked">NOT CAUGHT YET</string>
+
+    <string name="settings_title">SETTINGS</string>
+    <string name="settings_units">UNITS</string>
+    <string name="settings_units_kg">KG</string>
+    <string name="settings_units_lb">LB</string>
+    <string name="settings_reduce_motion">REDUCE MOTION</string>
+    <string name="settings_reset">RESET PROGRESS</string>
+    <string name="settings_footer">ARCTIC LOG · OFFLINE JOURNAL · 3+</string>
+
+    <string name="dialog_pause_title">SESSION PAUSED</string>
+    <string name="dialog_pause_text">THE ICE HOLE WAITS. RESUME OR CLOSE THE SESSION</string>
+    <string name="dialog_reset_title">RESET ALL PROGRESS</string>
+    <string name="dialog_reset_text">THIS CLEARS EVERY SESSION, SPECIES AND BADGE ON THIS DEVICE</string>
+
+    <string name="spot_frozen_bay">FROZEN BAY</string>
+    <string name="spot_deep_crack">DEEP CRACK</string>
+    <string name="spot_north_shelf">NORTH SHELF</string>
+    <string name="weather_clear">CLEAR</string>
+    <string name="weather_snow">SNOW</string>
+    <string name="weather_blizzard">BLIZZARD</string>
+
+    <string name="gear_ice_auger">ICE AUGER</string>
+    <string name="gear_thermos">THERMOS</string>
+    <string name="gear_short_rod">SHORT ROD</string>
+    <string name="gear_lure_box">LURE BOX</string>
+    <string name="gear_sled">SLED</string>
+
+    <string name="species_ice_perch">ICE PERCH</string>
+    <string name="species_arctic_char">ARCTIC CHAR</string>
+    <string name="species_northern_pike">NORTHERN PIKE</string>
+    <string name="species_burbot">BURBOT</string>
+
+    <string name="tier_ice_scout">ICE SCOUT</string>
+    <string name="tier_frost_angler">FROST ANGLER</string>
+    <string name="tier_deep_driller">DEEP DRILLER</string>
+    <string name="tier_polar_master">POLAR MASTER</string>
+
+    <string name="weight_kg">%1$s KG</string>
+    <string name="weight_lb">%1$s LB</string>
+    <string name="value_none">NONE</string>
+
+    <string name="cd_logo">ARCTIC LOG EMBLEM</string>
+    <string name="cd_pause">PAUSE THE SESSION</string>
+    <string name="cd_home">RETURN TO THE MENU</string>
+    <string name="cd_gear_pack">ICE FISHING GEAR</string>
+    <string name="cd_badge">ANGLER BADGE</string>
+    <string name="state_checked">CHECKED</string>
+    <string name="state_unchecked">UNCHECKED</string>
+    <string name="state_selected">SELECTED</string>
+    <string name="state_not_selected">NOT SELECTED</string>
+    <string name="state_on">ON</string>
+    <string name="state_off">OFF</string>
+</resources>
